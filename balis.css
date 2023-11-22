@@ -1,0 +1,28 @@
+
+body {
+    background-color: lightblue;
+  }
+  h1 {
+    background-color: green;
+  }
+  
+  div {
+    background-color: lightblue;
+  }
+  
+  p {
+    background-color: rgb(43, 78, 71);
+  } 
+ 
+div {
+  width:300px;
+  margin:auto;
+}
+img { width:300px;
+    margin:auto;}
+    aside{ width: 180;
+    height: 90;
+list-style: lower-latin;}
+li {
+    list-style-position: inside;
+}
